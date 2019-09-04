@@ -9,6 +9,6 @@
     -h, --help      Show this help message and exit.
     -e, --expire    Expire after X days, default to 1 day.
  Arguments:
-    -f, --file      File name of the p8 key file downloaded fomr apple.
+    -f, --file      File name of the p8 key file downloaded from apple.
     -k, --key       The 10-character key id.
     -t, --team      Your apple developer account's team id.
