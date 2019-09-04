@@ -65,7 +65,7 @@ def main(args):
         printHelp()
         sys.exit(2)
 
-    print(generate("", keyId, teamId, expireAfter))
+    print(generate(keySecret, keyId, teamId, expireAfter))
     sys.exit()
 
 if __name__ == "__main__":
